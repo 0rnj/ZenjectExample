@@ -1,0 +1,31 @@
+syntax: glob
+Library/
+Temp/
+Assets/Plugins/Editor/JetBrains/
+Assets/Plugins/Editor/JetBrains.meta
+.idea.EditorTest
+*.csproj
+.vs/
+.vs/
+*.DotSettings.user
+*.sln
+*.orig
+*.orig.meta
+.idea/*
+.idea/*
+Logs
+obj/*
+Assets/UnityCoreSystems/SystemsServiceFolder/User
+*.blend1
+UserSettings/
+.vsconfig
+ProjectSettings/EditorSettings.asset
+Assets/StreamingAssets
+StreamingAssets.meta
+Assets/OldBattlePartAssets/Plugins/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset
+Assets/OldBattlePartAssets/Plugins/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset.meta
+Assets/_TerrainAutoUpgrade
+mono_crash.*.json
+Assets/UnityCoreSystems/SystemsServiceFolder/User/Assets/SystemsRegistryCache.json
+Assets/UnityCoreSystems/SystemsServiceFolder/User/Assets
+ProjectSettings/GvhProjectSettings.xml
